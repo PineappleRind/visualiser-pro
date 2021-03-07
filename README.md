@@ -23,3 +23,5 @@ Intrested in contributing? create a fork of this repository and make your change
 - HTML
 - JavaScript
 - TailwindCSS
+
+> Note: We built this as a project for TWT codejam.

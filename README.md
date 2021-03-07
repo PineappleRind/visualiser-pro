@@ -12,5 +12,5 @@ If you are intrested you can try the app [here](https://visualiser-pro.vercel.ap
 - 3d bar graphs!
 - Covid-19 Data/visualiser!
 - Create your own custom visualiser with your own data!
-- Whiteboard for planning out your custom visualiser.
-- Stock graphs/visualisers.
+- Whiteboard for planning out your custom visualiser!
+- Stock graphs/visualisers!

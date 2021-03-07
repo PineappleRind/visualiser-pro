@@ -1,7 +1,5 @@
-<br>
-
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/790349907034636312/799382453093531668/Screen_Shot_2021-01-14_at_4.00.23_PM.png" alt="logo">
-
-  <br>
-  <br>
+ 
+ [![Generic badge](https://img.shields.io/badge/CodeJam-Timathon-orange.svg)](https://twtcodejam.net/) ![Platforms](https://raster.shields.io/badge/Platform-Web%20Browser-blue.png) ![GitHub repo size](https://img.shields.io/github/repo-size/TWT-Code-Jam-FAST/Probox) [![Link](https://img.shields.io/badge/Link-https://probox.vercel.app-orange.svg)](https://probox.vercel.app)
+ 
+ </div>

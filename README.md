@@ -17,3 +17,9 @@ If you are intrested you can try the app [here](https://visualiser-pro.vercel.ap
 
 ## Contributing
 Intrested in contributing? create a fork of this repository and make your changes there, Then create a pull request.
+
+# Frameworks/Tools used for this
+- CSS
+- HTML
+- JavaScript
+- TailwindCSS
